@@ -1,0 +1,16 @@
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.exe
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.deps.json
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.runtimeconfig.json
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.runtimeconfig.dev.json
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.dll
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\ref\Csharp_Collections.dll
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\bin\Debug\net5.0\Csharp_Collections.pdb
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.csproj.AssemblyReference.cache
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.AssemblyInfoInputs.cache
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.AssemblyInfo.cs
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.csproj.CoreCompileInputs.cache
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.dll
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\ref\Csharp_Collections.dll
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.pdb
+F:\repos\Csharp_Collections\Csharp_Collections\Csharp_Collections\obj\Debug\net5.0\Csharp_Collections.genruntimeconfig.cache
